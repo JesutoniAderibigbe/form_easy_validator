@@ -1,7 +1,7 @@
 name: form_easy_validator
 description: FormEasyValidator is a powerful and customizable Flutter package designed to simplify form validation in your Flutter apps while supporting seamless localization for international users. With FormEasyValidator, you can effortlessly validate user input and ensure data integrity in your forms, saving you development time and reducing the chance of errors..
-version: 0.0.1
-homepage:
+version: 0.6.0
+homepage: https://github.com/JesutoniAderibigbe/form_easy_validator
 license: MIT
 
 environment:
